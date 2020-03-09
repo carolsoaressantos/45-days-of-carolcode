@@ -1,7 +1,6 @@
 # 45 days of code
 My personal challenge to code 2h every working day for 45 days
 
---
 ## My personal rules
 
  - Just code in working days (enjoy you weekend, honey!)
