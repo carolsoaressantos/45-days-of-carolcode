@@ -14,7 +14,8 @@ My personal challenge to code 2h every working day for 45 days
 - Finish my two Udemy courses
 - Get the first certification on freeCodeCamp
 
-## Twitter posting
+## Twitter posts
+[Day 01](https://twitter.com/carolcode/status/1237167807164530689)|
 
 
 
